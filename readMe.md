@@ -1,4 +1,4 @@
-<p style={font-size:20px;text-align:center}>Please check solutions folder</p>
+<p style={font-size:'20px';text-align:'center'}>Please check solutions folder</p>
 
 <div>
 <img align="right" width="100%"  src="./images/30_days_of_react.jpg" />
